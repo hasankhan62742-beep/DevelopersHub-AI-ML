@@ -21,3 +21,18 @@ Iris Dataset (loaded via seaborn library)
 - Dataset has 150 samples and 5 columns
 - 3 species: setosa, versicolor, virginica (50 each)
 - Petal length is best feature to distinguish species
+## Task 6: House Price Prediction
+
+### Objective
+Predict house prices using property features.
+
+### Dataset
+Boston Housing Dataset (506 samples, 14 features)
+
+### Models Applied
+- Linear Regression
+
+### Key Results
+- MAE and RMSE calculated for model evaluation
+- Actual vs Predicted prices plotted
+- Correlation heatmap shows feature relationships
